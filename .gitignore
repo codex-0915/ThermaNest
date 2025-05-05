@@ -1,0 +1,18 @@
+# Ignore node_modules
+**/node_modules/
+
+# Ignore build outputs
+**/dist/
+**/build/
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore firmware build files
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+
+# Ignore container files
+*.tar
