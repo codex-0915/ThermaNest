@@ -1,0 +1,10 @@
+# .coderabbit/config.yml
+review:
+  summary: true
+  style: true
+  suggestions: true
+  issues: true
+  ask: false
+  description: |
+    ThermaNest: Home temperature IoT system with firmware, server, dashboard, and CI/CD pipeline.
+    Review for code quality, maintainability, security, and proper DevOps practices.
